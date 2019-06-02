@@ -1,28 +1,28 @@
 # TextBook
 
-   ## Method of Statistics
+  ## 1)Method of Statistics
 *  Design-and-Analysis-of-Experiments ;  Eighth Edition; By Douglas C. Montgomery
 * Applied Linear Statistical Models;  Fifth. Edition; By Michael H. Kutner
 
-  ## Theory of Statistics
+  ## 2)Theory of Statistics
 * Statistical Inference ; Second Edition; By George Casella
 
-  ## Computational Statistics ; 
+  ## 3)Computational Statistics ; 
 * An Introduction to Statistical Learning with Applications in R ; By Gareth James
 
-  ## Statistical Method Clinical Trials
+  ## 4)Statistical Method Clinical Trials
 * Clinical Trials A Methodologic Perspective ; Second Edition ; By Steven Piantadosi
 
-  ## Applied Regression Analysis 
+  ## 5)Applied Regression Analysis 
 * Linear Regression Analysis ; Fifth Edition ; By Douglas C. Montgomery
 
-  ## Applied Time Series
+  ## 6)Applied Time Series
 * Time Series Analysis With Applications in R
 
-  ## Environmental Statistics
+  ## 7)Environmental Statistics
 * (Teacher's Note)
 
-  ## Statistical Consulting
+  ## 8)Statistical Consulting
 * Your Statistical Consultant ; Second Edition ; By. Rae R. Newton
 
 # My Favorite Books for Data Analysis

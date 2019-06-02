@@ -1,6 +1,6 @@
 # TextBook 
 
-.. ## 1) Method of Statistics
+  ## 1) Method of Statistics
 *  Design-and-Analysis-of-Experiments ;  Eighth Edition; By Douglas C. Montgomery
 * Applied Linear Statistical Models;  Fifth. Edition; By Michael H. Kutner
 

@@ -1,13 +1,13 @@
 # TextBook 
 
-  ## 1) Method of Statistics
+.. ## 1) Method of Statistics
 *  Design-and-Analysis-of-Experiments ;  Eighth Edition; By Douglas C. Montgomery
 * Applied Linear Statistical Models;  Fifth. Edition; By Michael H. Kutner
 
   ## 2) Theory of Statistics
 * Statistical Inference ; Second Edition; By George Casella
 
-  ## 3) Computational Statistics ; 
+  ## 3) Computational Statistics 
 * An Introduction to Statistical Learning with Applications in R ; By Gareth James
 
   ## 4) Statistical Method Clinical Trials
